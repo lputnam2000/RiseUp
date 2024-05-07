@@ -1,0 +1,1 @@
+This was a C# app I worked on in highschool for controlling robots from a certain low-cost kit. I was helping one of my highschool administrators get the wheel rolling on a middleschool STEM education outreach program "RiseUp" - getting middleschol students interested in robotics.
